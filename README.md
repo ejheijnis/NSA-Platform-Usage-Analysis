@@ -1,1 +1,2 @@
-# NSA-Platform-Usage-Analysis
+## NSA-Platform-Usage-Analysis
+Working for FreeFuse, our team analyzed user experience data of a healthcare claim submission and payment platform for out-of-network medical procedures. I used Google Sheets to clean and normalize the various data sets, which included numerous duplicate records. I used SQL to organize activity records into user sessions, and analyzed these for session length by user role, which revealed that a logoff timer had not been implemented. I also used SQL to identify which screens and UI elements users interacted with most often, isolating pain points in the user experience.
